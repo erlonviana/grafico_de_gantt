@@ -22,7 +22,8 @@ gantt
   dateFormat YYYY-MM-DD
   section 1° Bimestre
   1° Bimestre :a1, 2025-02-02, 60d
+  2° Bimestre :a2, after a1, 60d
   section 2° Bimestre
-  2° Bimestre :a2, 2025-05-02, 60d
+  
 ```
 
